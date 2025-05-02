@@ -5,5 +5,6 @@ Gumstra is a script i made cuz i was Bored for a game called Doomspire brickbatt
 
 
 
-For doomlets / dsbb devs:\n
-Hello dsbb devs/players, Good luck reading these files! :3
+For doomlets / dsbb devs:
+  
+Hello dsbb devs/players, You have found gumstra's "source" Good luck reading these files... you WILL need it
