@@ -1,0 +1,3 @@
+for _, v in discord do
+  print(v.."\rAHHHH😨")
+end
