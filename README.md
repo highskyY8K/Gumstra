@@ -11,7 +11,7 @@ I'm going to add support for ALL of the other doomspire games V
 - [ ] Turbo DSBB
 - [ ] 8 Tower DSBB
 - [ ] Super Doomspire
-- [ ] Guerra de Torres
+- [x] Guerra de Torres
 - [ ] Pilfering Pirates
 
 # For doomlets / odsbb devs:
