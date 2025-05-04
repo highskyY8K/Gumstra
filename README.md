@@ -7,13 +7,13 @@ Gumstra is a script i made cuz i was Bored for a game called Doomspire brickbatt
 I am doing to add support for ALL of the other doomspire games list V
 
 
-- [x] Official DSBB:white_check_mark:
-- [ ] Turbo DSBB:x:
-- [ ] 8 Tower DSBB:x:
-- [ ] Super Doomspire:x:
-- [ ] Guerra de Torres:construction:
-- [ ] Pilfering Pirates:x:
+- [x] Official DSBB
+- [ ] Turbo DSBB
+- [ ] 8 Tower DSBB
+- [ ] Super Doomspire
+- [ ] Guerra de Torres
+- [ ] Pilfering Pirates
 
-For doomlets / odsbb devs:
+# For doomlets / odsbb devs:
   
 Hello odsbb devs/players, You have found gumstra's "source" Good luck reading these files... you WILL need it
