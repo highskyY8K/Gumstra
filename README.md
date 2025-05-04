@@ -4,7 +4,7 @@ Gumstra is a script i made cuz i was Bored for a game called Doomspire brickbatt
 
 ## Plans:
 
-I am doing to add support for ALL of the other doomspire games list V
+I'm going to add support for ALL of the other doomspire games V
 
 
 - [x] Official DSBB
