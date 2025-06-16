@@ -19,19 +19,23 @@ I'm going to add support for ALL of the other doomspire games V
 -  TODO
 - -  [ ] add kill all
 - -  [ ] add flight overlapping
-- - [ ] add ESP
-- - [ ] add spam tool
+- -  [ ] add ESP
+- -  [ ] add spam tool
+- -  [ ] add explode map
 - [ ] 8 Tower DSBB
 - [ ] Super Doomspire
 - [x] Guerra de Torres
 -  TODO
-- -  [ ] add kill all
+- -  [ ] upgrade the shitty kill all
 - -  [ ] add flight overlapping
 - -  [ ] add ESP
 - -  [ ] try and add no cooldown
 - -  [ ] Give gamepasses
+- -  [ ] add explode map
 - [ ] Pilfering Pirates
 
 # For doomlets / odsbb devs:
   
 Hello odsbb devs/players, You have found gumstra's "source" Good luck reading these files... you WILL need it
+
+Offical dsbb's file is 1215581239.en
