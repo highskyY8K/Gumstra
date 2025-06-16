@@ -17,10 +17,10 @@ I'm going to add support for ALL of the other doomspire games V
 -  [ ] WHEN ENTER IS PRESSED MAKE IT NOT RELOAD THE WHOLE SCRIPT!!! (key system problem)
 - [x] Turbo DSBB
 -  TODO
--  [ ] add kill all
--  [ ] add flight overlapping
--  [ ] add ESP
--  [ ] add spam tool
+- -  [ ] add kill all
+- -  [ ] add flight overlapping
+- - [ ] add ESP
+ -  [ ] add spam tool
 - [ ] 8 Tower DSBB
 - [ ] Super Doomspire
 - [x] Guerra de Torres
