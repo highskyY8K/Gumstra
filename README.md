@@ -8,7 +8,7 @@ I'm going to add support for ALL of the other doomspire games V
 
 
 - [x] Official DSBB
-- [ ] Turbo DSBB
+- [x] Turbo DSBB
 - [ ] 8 Tower DSBB
 - [ ] Super Doomspire
 - [x] Guerra de Torres
