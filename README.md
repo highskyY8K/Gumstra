@@ -8,28 +8,28 @@ I'm going to add support for ALL of the other doomspire games V
 
 
 - [x] Official DSBB
-- - TODO
-- - [] Fix kill all
-- - [] Fix flight overlapping
-- - [] Fix ESP
-- - [] Rewrite kill aura (it sucks)
-- - [] Fix memory leaks
-- - [] WHEN ENTER IS PRESSED MAKE IT NOT RELOAD THE WHOLE SCRIPT!!! (key system problem)
+- | TODO
+- | [ ] Fix kill all
+- | [ ] Fix flight overlapping
+- | [ ] Fix ESP
+- | [ ] Rewrite kill aura (it sucks)
+- | [ ] Fix memory leaks
+- | [ ] WHEN ENTER IS PRESSED MAKE IT NOT RELOAD THE WHOLE SCRIPT!!! (key system problem)
 - [x] Turbo DSBB
-- - TODO
-- - [] add kill all
-- - [] add flight overlapping
-- - [] add ESP
-- - [] add spam tool
+- | TODO
+- | [ ] add kill all
+- | [ ] add flight overlapping
+- | [ ] add ESP
+- | [ ] add spam tool
 - [ ] 8 Tower DSBB
 - [ ] Super Doomspire
 - [x] Guerra de Torres
-- - TODO
-- - [] add kill all
-- - [] add flight overlapping
-- - [] add ESP
-- - [] try and add no cooldown
-- - [] Give gamepasses
+- | TODO
+- | [ ] add kill all
+- | [ ] add flight overlapping
+- | [ ] add ESP
+- | [ ] try and add no cooldown
+- | [ ] Give gamepasses
 - [ ] Pilfering Pirates
 
 # For doomlets / odsbb devs:
