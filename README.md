@@ -14,7 +14,7 @@ I'm going to add support for ALL of the other doomspire games V
 - -  [ ] Fix ESP
 - -  [ ] Rewrite kill aura (it sucks)
 - -  [ ] Fix memory leaks
-- -  [ ] WHEN ENTER IS PRESSED MAKE IT NOT RELOAD THE WHOLE SCRIPT!!! (key system problem)
+- -  [x] WHEN ENTER IS PRESSED MAKE IT NOT RELOAD THE WHOLE SCRIPT!!! (key system problem)
 - [x] Turbo DSBB
 -  TODO
 - -  [ ] add kill all
