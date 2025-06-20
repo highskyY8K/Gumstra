@@ -18,7 +18,11 @@ I'm going to add support for ALL of the other doomspire games V
 - [x] Turbo DSBB
 -  TODO
 - -  [ ] add kill all
+<<<<<<< HEAD
 - -  [ ] add flight
+=======
+- -  [ ] add flight overlapping
+>>>>>>> 6c6d64190bd146cb5415c4a6e44920dee3869a1d
 - -  [ ] add ESP
 - -  [ ] add spam tool
 - -  [ ] add explode map
@@ -38,4 +42,8 @@ I'm going to add support for ALL of the other doomspire games V
   
 Hello odsbb devs/players, You have found gumstra's "source" Good luck reading these files... you WILL need it
 
+<<<<<<< HEAD
 Offical dsbb's file is 1215581239.en
+=======
+Offical dsbb's file is 1215581239.en
+>>>>>>> 6c6d64190bd146cb5415c4a6e44920dee3869a1d
