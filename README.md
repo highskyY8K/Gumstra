@@ -11,6 +11,7 @@ I'm going to add support for ALL of the other doomspire games V
 - TODO
 - -  [x] Fix kill all
 - -  [ ] Fix flight overlapping
+- -  [ ] Add mobile flight support
 - -  [ ] Fix ESP
 - -  [ ] Rewrite kill aura (it sucks)
 - -  [ ] Fix memory leaks
