@@ -10,7 +10,7 @@ I'm going to add support for ALL of the other doomspire games V
 - [x] Official DSBB
 - TODO
 - -  [x] Fix kill all
-- -  [ ] Fix flight overlapping
+- -  [x] Fix flight overlapping
 - -  [ ] Add mobile flight support
 - -  [ ] Fix ESP
 - -  [ ] Rewrite kill aura (it sucks)
