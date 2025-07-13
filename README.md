@@ -28,9 +28,9 @@ I'm going to add support for ALL of the other doomspire games V
 - [ ] Super Doomspire
 - [x] Guerra de Torres
 -  TODO
-- -  [ ] upgrade the shitty kill all
+- -  [x] upgrade the shitty kill all
 - -  [ ] add flight overlapping
-- -  [ ] add ESP
+- -  [x] add ESP
 - -  [ ] try and add no cooldown
 - -  [ ] Give gamepasses
 - -  [ ] add explode map
