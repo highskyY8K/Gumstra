@@ -14,8 +14,11 @@ I'm going to add support for ALL of the other doomspire games V
 - -  [ ] Add mobile flight support
 - -  [x] Fix ESP
 - -  [ ] Rewrite kill aura (it sucks)
-- -  [x] Fix memory leaks
+- -  [x] Fix memory leaks (kinda fixed??)
 - -  [x] WHEN ENTER IS PRESSED MAKE IT NOT RELOAD THE WHOLE SCRIPT!!! (key system problem)
+
+- -  [ ] Fix invis fly
+- -  [ ] Fix bomb fly
 - [x] Turbo DSBB
 -  TODO
 - -  [ ] add kill all
