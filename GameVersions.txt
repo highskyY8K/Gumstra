@@ -1,6 +1,6 @@
 getgenv().Gumstra = {}
 Gumstra.GameVersion={
-	["1215581239"]=1636,--ODsbb
-	["2556187419"]=146,--Guerra de Torres
-	["625441571"]=324,--TDsbb
+	["1215581239"] = 1640, --Odsbb
+	["2556187419"] = 146, --Guerra de Torres
+	["625441571"] = 324 --Tdsbb
 }
