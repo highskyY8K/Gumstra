@@ -1,0 +1,5 @@
+Gumstra.GameVersion={
+	["1215581239"]={version=1636,date="19/07/2025",newestinstanceadded=nil}, --ODsbb
+	["2556187419"]={version=146,date="31/5/2025",newestinstanceadded=nil}, --Guerra de Torres
+	["625441571"]={version=324,date="8/5/2025",newestinstanceadded=nil}, --TDsbb
+}
