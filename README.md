@@ -17,8 +17,8 @@ I'm going to add support for ALL of the other doomspire games V
 - -  [x] Fix memory leaks (kinda fixed??)
 - -  [x] WHEN ENTER IS PRESSED MAKE IT NOT RELOAD THE WHOLE SCRIPT!!! (key system problem)
 
-- -  [ ] Fix invis fly
-- -  [ ] Fix bomb fly
+- -  [ ] Fix invis fly (does work, but is using detected flight)
+- -  [x] Fix bomb fly (fully fixed)
 - [x] Turbo DSBB
 -  TODO
 - -  [ ] add kill all
