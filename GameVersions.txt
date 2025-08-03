@@ -1,6 +1,6 @@
 local Gumstra = {
 	GameVersion = {
-		["1215581239"] = 1779, --Odsbb
+		["1215581239"] = 1782, --Odsbb
 		["2556187419"] = 146, --Guerra de Torres
 		["625441571"] = 324 --Tdsbb
 	}
